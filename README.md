@@ -73,7 +73,7 @@ Professional with 8 years of experience across banking, professional services, h
 ### 🎓 Education
 
 * **BA (Hons) Business & Management** — *Northumbria University* (`Oct 2026 - 2028, in progress`)
-* **Programme in Executive Development in Digital Transformation (75 h)** — *EAE Business School, Barcelona* (`Nov 2024 - May 2025`)
+* **Programme in Executive Development in Digital Transformation** — *EAE Business School, Barcelona* (`Nov 2024 - May 2025`)
 * **Higher Vocational Diploma (CFGS) in Administration & Finance** — *AF Centre d'Estudis, Barcelona* (`Sep 2022 - Jun 2025`)
 * **Business Administration** *Universidad de Piura, Peru* (`2016 - 2021`)
 
